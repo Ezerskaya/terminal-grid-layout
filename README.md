@@ -1,1 +1,1 @@
-trader terminal demo
+terminal-grid-layout
